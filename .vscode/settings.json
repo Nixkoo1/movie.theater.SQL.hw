@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "silo.db.elephantsql.com (isilo-01)",
+            "driver": "PostgreSQL",
+            "database": "kvujlgnm",
+            "username": "kvujlgnm",
+            "name": "Database2.0",
+            "connectString": "postgres://kvujlgnm:trAALmKgG66LjCCVRngbJnUCK0pCurPl@isilo.db.elephantsql.com/kvujlgnm"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "movies",
+            "connectString": "postgres://qnyecukx:jXGbzqQ_IgvfYNd5U_V1Fttz1f0dvKU4@ruby.db.elephantsql.com/qnyecukx"
+        }
+    ]
+}
